@@ -6,11 +6,11 @@
 ---
 # Overview
 ## Cover Page
-<img width="907" src="https://github.com/user-attachments/assets/be5f4c2a-7c82-441e-ba7e-09d2ec212a02">
+<img src="https://github.com/user-attachments/assets/be5f4c2a-7c82-441e-ba7e-09d2ec212a02">
 
 ## Content 
 <img width="907" alt="스크린샷 2024-09-29 오후 6 44 30" src="https://github.com/user-attachments/assets/2d0941c3-ca2c-49f6-9ba8-553c884ca46f">
-
+![모델링_NLP1팀_pages-to-jpg-0002](https://github.com/user-attachments/assets/d21bba94-0718-4383-b2d4-19058814373e)
 
 ## 1. Intro 
 <img width="906" alt="스크린샷 2024-09-29 오후 6 44 42" src="https://github.com/user-attachments/assets/a6927a18-f03c-4b85-a3cb-91647a8448ff">
