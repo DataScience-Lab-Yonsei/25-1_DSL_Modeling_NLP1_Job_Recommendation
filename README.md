@@ -6,39 +6,42 @@
 ---
 # Overview
 ## Cover Page
-<img src="https://github.com/user-attachments/assets/be5f4c2a-7c82-441e-ba7e-09d2ec212a02">
+<img width="907" src="https://github.com/user-attachments/assets/be5f4c2a-7c82-441e-ba7e-09d2ec212a02">
 
 ## Content 
-<img width="907" alt="스크린샷 2024-09-29 오후 6 44 30" src="https://github.com/user-attachments/assets/2d0941c3-ca2c-49f6-9ba8-553c884ca46f">
-![모델링_NLP1팀_pages-to-jpg-0002](https://github.com/user-attachments/assets/d21bba94-0718-4383-b2d4-19058814373e)
+<img width="907" src="https://github.com/user-attachments/assets/d21bba94-0718-4383-b2d4-19058814373e">
 
 ## 1. Intro 
-<img width="906" alt="스크린샷 2024-09-29 오후 6 44 42" src="https://github.com/user-attachments/assets/a6927a18-f03c-4b85-a3cb-91647a8448ff">
-<img width="907" alt="스크린샷 2024-09-29 오후 6 45 16" src="https://github.com/user-attachments/assets/c225c4b2-8b4f-4683-978a-a1f95312fc0d">
-<img width="906" alt="스크린샷 2024-09-29 오후 6 45 31" src="https://github.com/user-attachments/assets/dcbd58f5-d37c-4d2b-b202-912daaf77f91">
-<img width="860" alt="스크린샷 2024-09-29 오후 6 46 41" src="https://github.com/user-attachments/assets/dde7a2c5-1aaa-4c85-a823-1f4868a8f91d">
-<img width="857" alt="스크린샷 2024-09-29 오후 6 46 55" src="https://github.com/user-attachments/assets/5945e9fb-e61d-4260-8660-44e5fe6698ed">
-<img width="858" alt="스크린샷 2024-09-29 오후 6 47 05" src="https://github.com/user-attachments/assets/130369d4-9b14-49a3-b8ef-a2ffd27294b3">
+<img width="907" src="https://github.com/user-attachments/assets/a8a66790-1d89-4979-9490-3729765afd04">
+<img width="907" src="https://github.com/user-attachments/assets/51ccd0f9-313d-4519-baa2-e26b6a71d5bd">
+<img width="907" src="https://github.com/user-attachments/assets/be5d858a-4b3b-4649-a397-2bb2d38d0ec6">
 
-## 2. Dataset
-<img width="858" alt="스크린샷 2024-09-29 오후 6 47 27" src="https://github.com/user-attachments/assets/3e4df31f-9ee4-4aa0-87c9-df04780a1064">
-<img width="857" alt="스크린샷 2024-09-29 오후 6 47 47" src="https://github.com/user-attachments/assets/0389e6cb-2be4-4138-87e6-82eb01cb0975">
+## 2. Data Crawling & Preprocessing
+<img width="907" src="https://github.com/user-attachments/assets/7c7a48c8-d10d-425d-a43a-5ae0e512a248">
+<img width="907" src="https://github.com/user-attachments/assets/e6121706-594f-463a-bf58-9869d8572a2b">
+<img width="907" src="https://github.com/user-attachments/assets/ee4445af-28ee-4d2b-9162-f1fbacc16b82">
 
 ## 3. Modeling
-<img width="857" alt="스크린샷 2024-09-29 오후 6 48 58" src="https://github.com/user-attachments/assets/6f32b209-9e2e-4e02-8834-ca3bc3f7fc93">
-<img width="857" alt="스크린샷 2024-09-29 오후 6 49 13" src="https://github.com/user-attachments/assets/1ccdb7e0-18a3-4f6c-8109-09f8471c2394">
-<img width="857" alt="스크린샷 2024-09-29 오후 6 49 23" src="https://github.com/user-attachments/assets/36fbac83-1333-4f21-b2bf-4cb8de58871b">
-<img width="858" alt="스크린샷 2024-09-29 오후 6 49 34" src="https://github.com/user-attachments/assets/710c6be4-bc52-4b89-8c43-a9b7deb875fa">
-<img width="856" alt="스크린샷 2024-09-29 오후 6 49 45" src="https://github.com/user-attachments/assets/cb8f2859-7856-4b7a-8ada-1eb30489f9f7">
-<img width="859" alt="스크린샷 2024-09-29 오후 6 49 55" src="https://github.com/user-attachments/assets/afad5d45-10ce-4081-b7d9-500951130c56">
-<img width="855" alt="스크린샷 2024-09-29 오후 6 50 12" src="https://github.com/user-attachments/assets/12eaac73-7b88-4982-b5ad-7d6fa5af011b">
+<img width="907" src="https://github.com/user-attachments/assets/54308405-8305-4dac-a086-7eccb35d5163">
+<img width="907" src="https://github.com/user-attachments/assets/811a51c4-54e6-4aaa-865e-4edea6719255">
+<img width="907" src="https://github.com/user-attachments/assets/c82aefbe-0de3-4071-bf40-d39c1c28a9de">
+<img width="907" src="https://github.com/user-attachments/assets/94f12e3b-dbc2-499a-b2e8-daaa959c238b">
+<img width="907" src="https://github.com/user-attachments/assets/e3d06560-1093-4667-9693-c1f494ec61cd">
+<img width="907" src="https://github.com/user-attachments/assets/6a8b040c-67a2-4872-bfbd-d45ba994f5ee">
+<img width="907" src="https://github.com/user-attachments/assets/5cf8a26a-38da-483c-ba50-6894eee20e20">
+<img width="907" src="https://github.com/user-attachments/assets/5d8c3bd4-3f87-4831-a018-3170cdce8fed">
 
-## 4. Results
-<img width="856" alt="스크린샷 2024-09-29 오후 6 50 29" src="https://github.com/user-attachments/assets/292578ec-081c-4eac-977f-e13c60d10719">
-<img width="857" alt="스크린샷 2024-09-29 오후 6 51 34" src="https://github.com/user-attachments/assets/60985419-57eb-4eaa-b10d-ba86f9e94645">
+## 4. Service Flow
+<img width="907" src="https://github.com/user-attachments/assets/2ba4d783-38d1-4989-917d-a250ea82d314">
+<img width="907" src="https://github.com/user-attachments/assets/444abdd7-772b-4764-8006-271145198518">
+<img width="907" src="https://github.com/user-attachments/assets/d5547d82-89a6-48f5-8a04-ce20395735ff">
+<img width="907" src="https://github.com/user-attachments/assets/22312601-7552-4149-ae0c-139d28990306">
+<img width="907" src="https://github.com/user-attachments/assets/90ae4568-1734-4601-9edc-e61273fc394d">
+
 
 ## 5. Conclusion 
-<img width="855" alt="스크린샷 2024-09-29 오후 6 51 49" src="https://github.com/user-attachments/assets/0aaf8f96-eff3-4342-91e6-1a30ba764919">
+<img width="907" src="https://github.com/user-attachments/assets/0ddf5cb0-6b1d-4bc3-8746-959da9da857a">
+<img width="907" src="https://github.com/user-attachments/assets/fc19bd87-2ff4-4ce2-bf1c-0f3d3c3e8735">
 
 
 
