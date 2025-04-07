@@ -1,4 +1,6 @@
 # 25-1_DSL_Modeling_NLP1_Job_Recommendation
+# JOB: Job-fit Optimization via Behavioral AI
+
 ##### NLP1팀 - 12기: 김은희, 추준식 13기: 이승현, 이진우
 ## 💡 주제
 * NLP1팀은 원티드 사이트의 채용 공고 데이터를 활용하여 맞춤형 채용 공고 추천 서비스 프로젝트를 진행했습니다.
