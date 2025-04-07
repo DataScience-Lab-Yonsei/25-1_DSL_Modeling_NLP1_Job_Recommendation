@@ -1,0 +1,14 @@
+streamlit
+openai
+pandas
+numpy
+pysqlite3-binary
+chromadb
+FlagEmbedding
+chromadb
+FlagEmbedding
+einops
+google-generativeai
+google-api-python-client
+openai
+openpyxl
